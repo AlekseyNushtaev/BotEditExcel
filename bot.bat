@@ -1,0 +1,1 @@
+C:\Program Files\Python312\python.exe C:\BotEditExcel\main.py
